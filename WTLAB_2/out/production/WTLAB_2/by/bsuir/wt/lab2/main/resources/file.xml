@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<appliance>
+    <ovens>
+        <oven price="15" power-consumption="1000" weight="10" capacity="32" depth="60"
+              height="45.5" width="59.5" />
+        <oven price="15" power-consumption="1500" weight="12" capacity="33" depth="80"
+              height="45" width="70" />
+        <oven price="25" power-consumption="2000" weight="11" capacity="33" depth="40"
+              height="40" width="70" />
+    </ovens>
+
+    <laptops>
+        <laptop price="152" battery-capacity="1" os="Windows" memory-rom="4000"
+                system-memory="1000" cpu="1.2" display-inchs="18"/>
+        <laptop price="145" battery-capacity="1.5" os="Linux" memory-rom="8000"
+                system-memory="1000" cpu="2.2" display-inchs="19"/>
+        <laptop price="10" battery-capacity="3" os="Windows" memory-rom="8000"
+                system-memory="1500" cpu="3.2" display-inchs="22"/>
+    </laptops>
+
+    <refrigerators>
+        <refrigerator price="75" power-consumption="100" weight="20" freezer-capacity="10" overall-capacity="300" height="200" width="70" />
+        <refrigerator price="95" power-consumption="200" weight="30" freezer-capacity="15" overall-capacity="300" height="180" width="75" />
+        <refrigerator price="105" power-consumption="150" weight="35" freezer-capacity="20" overall-capacity="350.5" height="250" width="75" />
+    </refrigerators>
+
+    <vacuum-cleaners>
+        <vacuum-cleaner price="135" power-consumption="100" filter-type="A" bag-type="A2" wand-type="all-in-one" motor-speed-regulation="3000" cleaning-width="20" />
+        <vacuum-cleaner price="156" power-consumption="110" filter-type="B" bag-type="AA-89" wand-type="all-in-one" motor-speed-regulation="2900" cleaning-width="25" />
+        <vacuum-cleaner price="185" power-consumption="90" filter-type="C" bag-type="XX00" wand-type="all-in-one" motor-speed-regulation="2950" cleaning-width="30" />
+    </vacuum-cleaners>
+
+    <tablet-pcs>
+        <tablet-pc price="135" battery-capacity="3" display-inches="14" memory-rom="8000" flash-memory-capacity="2" color="blue" />
+        <tablet-pc price="153" battery-capacity="4" display-inches="15" memory-rom="8000" flash-memory-capacity="6" color="red" />
+        <tablet-pc price="145" battery-capacity="5" display-inches="16" memory-rom="16000" flash-memory-capacity="8" color="green" />
+    </tablet-pcs>
+
+    <speakers>
+        <speaker price="18" power-consumption="15" number-of-speakers="2" frequency-range="2-4" cord-length="2" />
+        <speaker price="15" power-consumption="20" number-of-speakers="3" frequency-range="3-4" cord-length="3" />
+        <speaker price="12" power-consumption="17" number-of-speakers="4" frequency-range="2-3.5" cord-length="4" />
+    </speakers>
+
+</appliance>
